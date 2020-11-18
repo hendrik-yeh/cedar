@@ -1,6 +1,7 @@
 PROJECT_NAME = "Cedar"
 APP_IOS_NAME = "Cedar-iOS StaticLib Specs"
 CONFIGURATION = "Release"
+PASSWORD = "@bcdEfgh!1234"
 
 SPECS_TARGET_NAME = "Cedar-OSX Specs"
 UI_SPECS_TARGET_NAME = "Cedar-iOS StaticLib Specs"
